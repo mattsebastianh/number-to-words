@@ -11,7 +11,7 @@ This project provides a Python utility for converting numbers into their English
 ## Usage
 1. Clone the repository:
 	```bash
-	git clone https://github.com/spacebakery/number-to-words.git
+	git clone [repo_URL]
 	```
 2. Run the script:
 	```bash
